@@ -1,0 +1,42 @@
+.table-container{
+    margin: auto;
+    margin-top: 80px;
+    background-color: #fff;
+    padding-bottom: 10px;
+    width: 700px;
+    border-radius: 16px;
+
+
+}
+
+.title{
+   font-weight: 700; 
+   padding-left: 10px;
+   text-align: center;
+}
+
+table, th, td{
+    border: 2px solid black;
+}
+
+.table-box{
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+
+.table td{
+    text-align: center;
+}
+
+.delete{
+    justify-content: center;
+    align-items: center;
+    width: 55px;
+    height: 25px;
+    color: #fff;
+    background: #4c00b4;
+    border-radius: 50px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+}
